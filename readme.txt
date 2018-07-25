@@ -1,5 +1,7 @@
 
-Api URLs
+Source code URL : https://github.com/Kinjalodwala/FarFetch_Project
+
+Api URLs For testing in Postman Client.
 
 For Points
 
@@ -24,8 +26,9 @@ To get best routes
 
 http://localhost:64467/api/GetBestRoutes/DestinationA/DestinationB
 http://localhost:64467/api/GetBestRoutes/DestinationA/DestinationC
-http://localhost:64467/api/GetBestRoutes/DestinationA/DestinationG
+http://localhost:64467/api/GetBestRoutes/DestinationA/DestinationI
 http://localhost:64467/api/GetBestRoutes/DestinationF/DestinationB
+
 
 Above link will show the possible cheapest, shortest and best route according to data.
 
