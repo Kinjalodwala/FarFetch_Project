@@ -1,0 +1,11 @@
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\bin\Debug\netcoreapp2.0\FarFetch.deps.json
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\bin\Debug\netcoreapp2.0\FarFetch.runtimeconfig.json
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\bin\Debug\netcoreapp2.0\FarFetch.runtimeconfig.dev.json
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\bin\Debug\netcoreapp2.0\FarFetch.dll
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\bin\Debug\netcoreapp2.0\FarFetch.pdb
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\obj\Debug\netcoreapp2.0\FarFetch.csproj.CoreCompileInputs.cache
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\obj\Debug\netcoreapp2.0\FarFetch.AssemblyInfoInputs.cache
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\obj\Debug\netcoreapp2.0\FarFetch.AssemblyInfo.cs
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\obj\Debug\netcoreapp2.0\FarFetch.dll
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\obj\Debug\netcoreapp2.0\FarFetch.pdb
+C:\Users\Kinjal\source\repos\FarFetch\FarFetch\obj\Debug\netcoreapp2.0\FarFetch.csprojAssemblyReference.cache
